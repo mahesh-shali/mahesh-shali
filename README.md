@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer who loves coding and exploring new technol
 
 - 🌱 I’m currently focused on learning Machine Learning and working on Langchain projects.
 -  💬 Feel free to ask me about web development, or any tech-related queries!
--  📫 You can reach me via [maheshshali10@gmail.com](mailto:maheshshali10@gmail.com).
+-  📫 You can reach me via <a href="mailto:maheshshali10@gmail.com">maheshshali10@gmail.com</a>.
 -  ⚡ Fun fact: I enjoy listening to music, which keeps me inspired and creative.
 
 ## Connect with me

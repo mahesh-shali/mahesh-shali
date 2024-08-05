@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer who loves coding and exploring new technol
 
 - 🌱 I’m currently focused on learning advanced [tech and working on [specific project].
 -  💬 Feel free to ask me about web development, or any tech-related queries!
--  📫 You can reach me via [maheshshali10@gmail.com](mailto:your-email@example.com).
+-  📫 You can reach me via [maheshshali10@gmail.com](mailto:maheshshali10@gmail.com).
 -  ⚡ Fun fact: I enjoy listening to music, which keeps me inspired and creative.
 
 ## Connect with me

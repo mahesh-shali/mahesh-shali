@@ -11,6 +11,15 @@ I'm a passionate Full Stack Developer who loves coding and exploring new technol
 -  📫 You can reach me via [maheshshali10@gmail.com](mailto:your-email@example.com).
 -  ⚡ Fun fact: I enjoy listening to music, which keeps me inspired and creative.
 
+## Connect with me
+<div align="center" style="display: flex; flex-wrap: wrap; gap:8px;">
+<a href="https://dev.to/YourProfileURL" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a> <a href="https://linkedin.com/in/YourProfileURL" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+
 ## 🛠️ Technologies & Tools
 
 ### Languages

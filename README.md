@@ -21,5 +21,14 @@ I'm a passionate Full Stack Developer who loves coding and exploring new technol
 
 ### Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> <img src="https://img.icons8.com/color/40/amazon-web-services.png" alt="AWS" style="border-radius: 10px;"/> <img src="https://img.icons8.com/color/40/microsoft-excel-2019.png" alt="Excel" style="border-radius: 10px;"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apachejmeter.svg" alt="JMeter" width="40" height="40" style="border-radius: 10px;" title="JMeter"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powerbi.svg" alt="Power BI" width="40" height="40" style="border-radius: 10px;" title="PowerBI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="Postman"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma"/>  
+  <img src="https://img.icons8.com/color/40/amazon-web-services.png" alt="AWS" style="border-radius: 10px;" title="AWS"/>  
+  <img src="https://img.icons8.com/color/40/microsoft-excel-2019.png" alt="Excel" style="border-radius: 10px;" title="Excel"/>  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apachejmeter.svg" alt="JMeter" width="40" height="40" style="border-radius: 10px;" title="JMeter"/>  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powerbi.svg" alt="Power BI" width="40" height="40" style="border-radius: 10px;" title="Power BI"/>
 </p>
+

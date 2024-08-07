@@ -3,7 +3,7 @@
 </div>
 
 # Hi there, I'm Mahesh 👋
-I'm a passionate Full Stack Developer who loves coding and exploring new technologies. With a knack for solving problems and a commitment to continuous learning.
+I am a Machine Learning Enthusiast who absolutely loves coding. My enthusiasm for technology drives me to tackle complex problems and build innovative solutions using machine learning techniques.
 ## 🚀 About Me
 
 - 🌱 I’m currently focused on learning Machine Learning and working on Langchain projects.
